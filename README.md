@@ -2,10 +2,9 @@
 
 I am a Python-focused software developer with a passion for creating innovative and user-friendly software. I am currently working on a sensor data visualization application at the University of Helsinki, utilizing technologies such as JavaScript, React, TypeScript, Node.js, MongoDB, and Docker. Additionally, I am actively **seeking an internship in software engineering**.
 
-Feel free to reach out to me if you have any questions or just want to chat about technology. 
-
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<div>
+<br>
+<div><img align="right" src="https://media.giphy.com/media/aqvLMPB3CddHUzBzQX/giphy.gif"/>
+</div>
 
 My current skills include:
 - **Programming languages:** Python (primary), JavaScript
