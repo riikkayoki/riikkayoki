@@ -17,4 +17,4 @@ I am also continuously expanding my skillset, currently/next up focusing on:
 - **Programming languages:**: C, C++, Kotlin, TypeScript
 - **Web development:**: Django
 - **Database:** MongoDB
-- **Other:** DevOps
+- **Other:** DevOps, IoT, Embedded Solutions, Cloud and Edge Computing
