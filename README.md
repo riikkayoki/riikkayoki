@@ -23,12 +23,12 @@ I am also continuously expanding my skillset, currently/next up focusing on:
 ## Bachelor's theses:
 
 #### BSc in Computer Science
-![Product Owner role in Scrum (in finnish)](https://github.com/riikkayoki/riikkayoki/blob/master/CKM%20in%20E-Business.pdf)
+![Product Owner role in Scrum (in finnish)](https://github.com/riikkayoki/riikkayoki/blob/master/Tuoteomistajan_rooli_Scrumissa.pdf)
 
 <i>Grade: 5/5</i>
 
 #### BSc in Economics and Business Administration
-[A case study of customer knowledge management in electronic business](https://github.com/riikkayoki/riikkayoki/blob/master/Tuoteomistajan_rooli_Scrumissa.pdf)
+[A case study of customer knowledge management in electronic business](https://github.com/riikkayoki/riikkayoki/blob/master/CKM%20in%20E-Business.pdf)
 
 <i>Grade: 5/5</i>
 
