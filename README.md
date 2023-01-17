@@ -1,6 +1,8 @@
 ## Hello :wave:, I'm Riikka!
 
-I am a Python-focused software developer with background in economics and business administration. I have a passion for creating innovative and user-friendly software. I am currently working on a birthday reminder telegram bot utilizing Python and a sensor data visualization application at the University of Helsinki, utilizing technologies such as JavaScript, React, TypeScript, Node.js, MongoDB, and Docker. Additionally, I am actively **seeking an internship in software engineering**.
+I am a Python-focused software developer with background in economics and business administration. I have a passion for creating quality-oriented and user-friendly software. I am actively **seeking an internship in software engineering**.
+
+Currently, I am working on a birthday reminder telegram bot utilizing Python and a sensor data visualization application (group project), utilizing technologies such as JavaScript, React, TypeScript, Node.js, MongoDB, and Docker. My recent projects can be found on my profile.
 
 <br>
 <div><img align="right" src="https://media.giphy.com/media/aqvLMPB3CddHUzBzQX/giphy.gif"/>
