@@ -10,7 +10,7 @@ My current skills include:
 - **Programming languages:** Python (primary), JavaScript
 - **Web development:** React, Node.js, Express, Flask, FastAPI
 - **Database:** MySQL, PostgreSQL
-- **Other:** Git, Linux, Robot Framework, CI/CD, Jira, Agile Software Product Management
+- **Other:** Git, Linux, Robot Framework, CI/CD, Jira, Agile Software Product Management, HTML, CSS
 
 I am also continuously expanding my skillset, currently/next up focusing on:
 
