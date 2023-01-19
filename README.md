@@ -26,7 +26,7 @@ Other interests:
 - Hackathons, workshops and mentoring programs
 - Podcasts related to Computer Science and IT
 
-## Bachelor's theses:
+## Publications
 
 #### BSc in Computer Science
 ![Product Owner role in Scrum (in finnish)](https://github.com/riikkayoki/riikkayoki/blob/master/Tuoteomistajan_rooli_Scrumissa.pdf)
