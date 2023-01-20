@@ -18,8 +18,8 @@ I am also continuously expanding my skillset, currently/next up focusing on:
 
 - **Programming languages:**: C, C++, Kotlin, TypeScript
 - **Web development:**: Django
-- **Database:** MongoDB
-- **Other:** DevOps, Software Architectures, IoT, Cloud and Edge Computing
+- **Database:** MondoDB
+- **Other:** Software Architectures, IoT, Cloud and Edge Computing, DevOps
 
 Other interests:
 - Creating quality-oriented and user-friendly software.
