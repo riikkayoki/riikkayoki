@@ -11,13 +11,13 @@ Currently, I am working on a birthday reminder telegram bot utilizing Python and
 My current skills include:
 - **Programming languages:** Python (primary), JavaScript
 - **Web development:** React, Node.js, Express, Flask, FastAPI
-- **Database:** MySQL, PostgreSQL
-- **Other:** Git, Linux, Robot Framework, CI/CD, Jira, Agile Software Product Management, HTML, CSS
+- **Database:** SQLite, MySQL, PostgreSQL
+- **Other:** Git, Linux, Robot Framework, Cypress, CI/CD, Jira, Agile Software Product Management, HTML, CSS
 
 I am also continuously expanding my skillset, currently/next up focusing on:
 
 - **Programming languages:**: C, C++, Kotlin, TypeScript
-- **Web development:**: Django
+- **Web development:**: Django, Flutter
 - **Database:** MondoDB
 - **Other:** Software Architectures, IoT, Cloud and Edge Computing, DevOps
 
@@ -29,7 +29,7 @@ Other interests:
 ## Publications
 
 #### BSc in Computer Science
-![Product Owner role in Scrum (in finnish)](https://github.com/riikkayoki/riikkayoki/blob/master/Tuoteomistajan_rooli_Scrumissa.pdf)
+[Product Owner role in Scrum (in finnish)](https://github.com/riikkayoki/riikkayoki/blob/master/Tuoteomistajan_rooli_Scrumissa.pdf)
 
 <i>Grade: 5/5 - Excellent</i>
 
