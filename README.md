@@ -11,14 +11,13 @@ Currently, I am working on a birthday reminder telegram bot utilizing Python and
 My current skills include:
 - **Programming languages:** Python (primary), JavaScript
 - **Web development:** React, Node.js, Express, Flask, FastAPI
-- **Database:** SQLite, MySQL, PostgreSQL
+- **Database:** SQLite, MySQL, PostgreSQL, MongoDB
 - **Other:** Git, Linux, Robot Framework, Cypress, CI/CD, Jira, Agile Software Product Management, HTML, CSS
 
 I am also continuously expanding my skillset, currently/next up focusing on:
 
 - **Programming languages:**: C, C++, Kotlin, TypeScript
 - **Web development:**: Django, Flutter
-- **Database:** MondoDB
 - **Other:** Software Architectures, IoT, Cloud and Edge Computing, DevOps
 
 Other interests:
